@@ -1,5 +1,7 @@
 /* Slider Widget
 
+id : 'element_id',       // (Required) ID of container element
+
 HTML:
 
   <div id="slide1" class="slide-wrapper loader">
